@@ -1,1 +1,4 @@
 # STATA Code Portfolio
+Example DO File:
+
+To determine whether gender or minority status affects math achievement scores, I was given a subset data set from the High School and Beyond Survey, which is a nationally representative sample of US High School students in 1980. The subset data set includes information about students, including their math achievement scores, minority status, gender, socioeconomic status, and also information about the high school the student goes to, such as the school size, if it was catholic school, and the proportion of students on academic track. With this data, I have concluded that there is significant evidence to suggest that on average, gender and minority status affects students’ math achievement scores. With further research, it seems as though socio-economic status is the most significant predictor of whether or not being a minority or female plays a contributing factor into math achievement scores. 
